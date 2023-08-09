@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrrajeev29
 - Pre-final year student at VIT
-- Computer Science Student
+- Computer Science Engineering Student
 - 👀 I’m interested in coding Universe
 - 🌱 I’m currently exploring ideas
 - 💞️ I’m looking to collaborate
