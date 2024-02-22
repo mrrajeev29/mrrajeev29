@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajeev Ranjan</h1>
 <h3 align="center">A passionate Computer Science Student from India.</h3>
-<div style="display:"flex";justify-content:"center";">
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-</div>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrrajeev29&label=Profile%20views&color=0e75b6&style=flat" alt="mrrajeev29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrrajeev29" alt="mrrajeev29" /></a> </p>
